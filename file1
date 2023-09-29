@@ -1,1 +1,8 @@
-hello from balu instead of its state
+hello from balu instead of its state #from dev1
+{
+      void main() #dev1
+      {
+      system out.printn(hello from dev)
+      }
+}      
+
