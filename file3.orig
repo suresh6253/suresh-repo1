@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+hello from balu #dev2
+{
+    void main()
+    {
+    system.out printn("hello from dev2");
+    }
+}#dev2    
+=======
+hello balu    #dev1
+{
+    void main()
+    {
+    system.out printn("hello from dev1");
+    }
+}#dev1    
+>>>>>>> ed96b7782798df999d0b7abb6e55933de8e40934
