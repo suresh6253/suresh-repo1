@@ -1,0 +1,8 @@
+hello from bava
+{
+   void main() #dev2
+   {
+    system.out printn("hello from dev2");
+   }
+}#dev2   
+
